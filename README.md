@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on new projects with JS and React<br>🌱 I’m currently learning React and Redux<br>👯 I’m looking to collaborate on Web developers<br>📫 How to reach me: rahim.ibadov@gmail.com<br>
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23996515&title_bg=%23555555&icon=react.svg&icon_color=%2361DBFB&title=hits&edge_flat=false" align  ="right" /></a>
+
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> -->
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rahim Lənkəran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rahim İbadov) 
@@ -13,4 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahimibadov&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
