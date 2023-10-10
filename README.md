@@ -3,11 +3,8 @@
 
 # 💫 About Me:
 
-
-
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> -->
+<img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rahim Lənkəran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rahim İbadov) 
