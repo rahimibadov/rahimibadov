@@ -1,6 +1,9 @@
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<br><br>
+
 # 💫 About Me:
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23996515&title_bg=%23555555&icon=react.svg&icon_color=%2361DBFB&title=hits&edge_flat=false" align  ="right" /></a>
+
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
