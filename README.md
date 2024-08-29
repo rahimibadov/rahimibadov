@@ -11,12 +11,6 @@ Frameworks: React
 📂 Projects  
 Here are some of my notable projects:  
   
-Sca(Project URL): A brief description of the project.  
-[Another Project](Project URL): Another brief description.  
-Feel free to check them out and let me know what you think!  
-  
-💌 Connect with Me
-[LinkedIn](Your LinkedIn URL)
-[Twitter](Your Twitter URL)
-[Personal Website/Portfolio](Your Website URL)
+Scandinavian https://github.com/rahimibadov/Scandinavian : Scandinavian countries  
+
 
